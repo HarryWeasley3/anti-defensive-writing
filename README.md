@@ -56,7 +56,7 @@
 
 ### 准备文件
 
-下载并解压本仓库，或下载 [技能压缩包](anti-defensive-writing.zip)。安装的是包含 `SKILL.md` 的 `anti-defensive-writing` 文件夹。
+下载并解压本仓库。安装的是包含 `SKILL.md` 的 `anti-defensive-writing` 文件夹。
 
 技能本身只包含指令、示例和界面信息，无须安装 Python 包、配置 API 密钥或运行脚本。
 
@@ -135,7 +135,6 @@ $anti-defensive-writing
 ```text
 .
 ├── README.md
-├── anti-defensive-writing.zip
 └── anti-defensive-writing/
     ├── SKILL.md
     ├── agents/openai.yaml
